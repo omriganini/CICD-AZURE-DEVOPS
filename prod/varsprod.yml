@@ -1,0 +1,10 @@
+http_port: ****
+public_ip: **********
+deploy_directory: ******
+db_host: ******
+pg_username: ****
+pg_database: *******
+pg_password: ******
+okta_org_url: "***********"
+okta_client_id: "**********"
+okta_client_secret: "************"
